@@ -1,0 +1,100 @@
+#container{
+    background-color: black;
+    height: 1000px;
+    width: 100%;
+}
+#uber{ 
+    padding: 20px ;
+    width: 200px;
+    margin-left: 50px;
+    font-size: large;
+    display: flex;
+    background-color: black;
+    border: solid white 20px;
+}
+#uber2{
+    font-size: 30px;
+    margin-left: 100px ;
+    margin-top: 50px;
+}
+#Amazon{
+    padding: 0px;
+    font-size: 30px;
+    margin-left: 400px;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+    background-color : rgb(255, 216, 20);
+    border: white solid 10px;
+    border-radius: 30px;
+    width: 350px;
+    height: 70px;
+    display: flex;
+}
+#Amazon2{
+    margin-left: 33%;
+    margin-top: -130px;
+    font-size: 30px;
+    display: flex;
+}
+#Amazon3{
+    border-color: white solid 10px;
+}
+#Git{
+    padding-top: 0px;
+    margin-left: 55%;
+    margin-top: 18px;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    height: 80px;
+    width: 160px;
+    background-color : rgb(46, 164, 79);
+    border: solid 12px;
+    border-radius: 17px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Git3{
+    font-size: 30px;
+    margin-left: 58%;
+    margin-top:  -130px;
+    display: flex;
+}
+#Boot{
+    display: flex;
+    margin-left: 73%;
+    margin-right: 80px;
+    margin-top: 10px;
+    border: white solid 10px;
+    background-color: white;
+    
+}
+#Bootstrap{
+    height: 60px;
+    width: 150px;
+    font-size: larger;
+    margin-right: 3px;
+    background-color: rgb(121, 82, 179) ;
+    border: solid 2px;
+    border-radius: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Bootstrap2{
+    padding: 0px;
+    height: 60px;
+    width: 170px;
+    margin-left: 20px;
+    margin-top: -1px;
+    font-size: larger;
+    background-color: aliceblue;
+    border: solid 2px;
+    border-radius: 8px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Bootstrap3{
+    font-size: 30px;
+    margin-left: 78%;
+    margin-top: -130px;
+    display: flex;
+}
